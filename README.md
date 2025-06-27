@@ -14,7 +14,7 @@ While this repository's filesystem contains the project files that I completed f
 > All projects require Python `version >= 3.9` and the packages in their corresponding package requirements to run.
 ___
 
-### From **Days001-80** - Guided Lecture Projects
+### From **Days 001-80** - Guided Lecture Projects
 - #### `Day 002`- [Calculating Tips](./Days%20001-005/Day_002/)
 - #### `Day 005`- [Generating Passwords](./Days%20001-005/Day_005/)
 - #### `Day 007`- [Hangman](./Days%20006-010/Day_007/)
@@ -48,7 +48,7 @@ ___
 
 ___
 
-### From **Days081-100** - Portfolio Projects
+### From **Days 081-100** - Portfolio Projects
 - #### `Day 083`- [CLI TicTacToe Game](./Days%20081-085/Day_083/)
 - #### `Day 084`- [Markit - Image Watermarking Software](./Days%20081-085/Day_084/)
 - #### `Day 089`- [Disappearing Text Webapp](./Days%20086-090/Day_089/)
