@@ -1,4 +1,4 @@
-# 100 Days of Code (Python) - Udemy
+# 100 Days of Python - Udemy
 
 💡 Dr. Angela Yu's course, [_100 Days of Code: The Complete Python Pro Bootcamp_](https://www.udemy.com/course/100-days-of-code/), aims to create fluent and well-rounded Python developers by exposing them to a wide array of Python programming concepts and techniques for 100 days straight. After completing the course, although I didn't complete it within the 100 days, I can confidently say that this was undoubtedly the best online course I've ever taken. Not only did I learn Python from zero-to-hero, but I was also taught things that most other courses skip over such as, but not limited to:
 * The importance of understanding the underlying theory behind the code we write
@@ -9,60 +9,55 @@
 
 🧰 Local setup instructions and the `requirements.txt` file are included in each project, if you'd like to try any for yourself. 
 
-🏁 [Completed](./certificate.pdf) on Feb 9, 2023.
-
-👤 If anyone needs help with the course, please feel free to contact me on [**Telegram**](https://t.me/hschickdevs).
-
 🚨 While this repository's filesystem contains the project files that I completed for **all** 100 days of the course, below are the links the projects that were the **_most interesting/signifigant_** to me throughout the course:
 
 > All projects require Python `version >= 3.9` and the packages in their corresponding package requirements to run.
 ___
 
-## From **days001-80** - Lecture & Lesson Guided Projects
-### `day002`: [Tip Calculator](./days001-010/day002/)
-### `day005`: [Password Generator](./days001-010/day005/)
-### `day007`: [Hangman](./days001-010/day007/)
-### `day008`: [Caesar Cipher](./days001-010/day008/)
-### `day011`: [Blackjack](./days011-020/day011/)
-### `day016`: [Coffee Machine](./days011-020/day016/)
-### `day017`: [Quiz](./days011-020/day017/)
-### `day018`: [Hirst Painting](./days011-020/day018/)
-### `day019`: [Turtle Race](./days011-020/day019/)
-### `day021`: [Snake Game](./days021-030/day021/)
-### `day022`: [Pong](./days021-030/day022/)
-### `day025`: [U.S. States Game](./days021-030/day025/)
-### `day026`: [Nato Phonetic Alphabet](./days021-030/day026/)
-### `day028`: [Pomodoro](./days021-030/day028/)
-### `day030`: [Advanced Password Manager](./days021-030/day030/)
-### `day031`: [Flashcard](./days031-040/day031/)
-### `day033`: [ISS Notifier](./days031-040/day033/)
-### `day034`: [Quizzler](./days031-040/day034/)
-### `day036`: [Stock Alert](./days031-040/day036/)
-### `day039`: [Cheap Flights Finder w/ GUI](./days031-040/day039/)
-### `day046`: [Spotify Time Machine](./days041-050/day046/)
-### `day047`: [Amazon Price Tracker](./days041-050/day047/)
-### `day048`: [Cookie Clicker Automation](./days041-050/day048/)
-### `day052`: [Instagram Follower Bot](./days051-060/day052/)
-### `day053`: [Zillow Web Scraper](./days051-060/day053/)
-### `day056`: [harrisonschick.com - Personal Website](./days051-060/day056/)
-### `day057`: [FinWeek - Stock News Website](./days051-060/day057/)
-### `day059`: [Harrison's Developer Blog - CRUD Webapp](./days051-060/day059/)
-### `day062`: [Coffee & Wifi - CRUD Webapp](./days061-070/day062/)
-### `day063`: [Virtual Bookshelf - CRUD Webapp](./days061-070/day063/)
-### `day064`: [My Top 10 Movies - CRUD Webapp](./days061-070/day064/)
-### `day080`: [Housing Price Predictions - Data Science Capstone Project](./days081-090/day080/)
+### From **days001-80** - Guided Lecture Projects
+#### `day002`: [Tip Calculator](./Days%20001-005/Day_002/)
+#### `day005`: [Password Generator](./Days%20001-005/Day_005/)
+#### `day007`: [Hangman](./Days%20006-010/Day_007/)
+#### `day008`: [Caesar Cipher](./Days%20006-010/Day_008/)
+#### `day011`: [Blackjack](./Days%20011-015/Day_011/)
+#### `day016`: [Coffee Machine](./Days%20016-020/Day_016/)
+#### `day017`: [Quiz](./Days%20016-020/Day_017/)
+#### `day018`: [Hirst Painting](./Days%20016-020/Day_018/)
+#### `day019`: [Turtle Race](./Days%20016-020/Day_019/)
+#### `day021`: [Snake Game](./Days%20021-025/Day_021/)
+#### `day022`: [Pong](./Days%20021-025/Day_022/)
+#### `day025`: [U.S. States Game](./Days%20021-025/Day_025/)
+#### `day026`: [Nato Phonetic Alphabet](./Days%20026-030/Day_026/)
+#### `day028`: [Pomodoro](./Days%20026-030/Day_028/)
+#### `day030`: [Advanced Password Manager](./Days%20026-030/Day_030/)
+#### `day031`: [Flashcard](./Days%20031-035/Day_031/)
+#### `day033`: [ISS Notifier](./Days%20031-035/Day_033/)
+#### `day034`: [Quizzler](./Days%20031-035/Day_034/)
+#### `day036`: [Stock Alert](./Days%20036-040/Day_036/)
+#### `day039`: [Cheap Flights Finder w/ GUI](./Days%20036-040/Day_039/)
+#### `day046`: [Spotify Time Machine](./Days%20041-046/Day_046/)
+#### `day047`: [Amazon Price Tracker](./Days%20047-050/Day_047/)
+#### `day048`: [Cookie Clicker Automation](./Days%20047-050/Day_048/)
+#### `day052`: [Instagram Follower Bot](./Days%20051-055/Day_052/)
+#### `day053`: [Zillow Web Scraper](./Days%20051-055/Day_053/)
+#### `day056`: [harrisonschick.com - Personal Website](./Days%20056-060/Day_056/)
+#### `day057`: [FinWeek - Stock News Website](./Days%20056-060/Day_057/)
+#### `day059`: [Harrison's Developer Blog - CRUD Webapp](./Days%20056-060/Day_059/)
+#### `day062`: [Coffee & Wifi - CRUD Webapp](./Days%20061-065/Day_062/)
+#### `day063`: [Virtual Bookshelf - CRUD Webapp](./Days%20061-065/Day_063/)
+#### `day064`: [My Top 10 Movies - CRUD Webapp](./Days%20061-065/Day_064/)
+#### `day080`: [Housing Price Predictions - Data Science Capstone Project](./Days%20076-080/Day_080/)
 
 ___
 
-## From **days081-100** - Self-Guided Portfolio Projects
-### `day083`: [CLI TicTacToe Game](./days081-090/day083/)
-### `day084`: [Markit - Image Watermarking Software](./days081-090/day084/)
-### `day089`: [Disappearing Text Webapp](./days081-090/day089/)
-### `day092`: [Custom Web Scraper - Taapi.io](./days091-100/day092/)
-### `day093`: [Google Dinosaur Game Automation](./days091-100/day093/)
-### `day094`: [Space Invaders with Pygame](./days091-100/day094/)
-### `day095`: [Custom API Based Website - Portfolio Analytics Dashboard](./days091-100/day095/)
-### `day097`: [Custom Automation Project - Daily Stock Portfolio Report](./days091-100/day097/)
-### `day100`: [Predict Earnings using Multivariate Regression](./days091-100/day100/)
+### From **days081-100** - Portfolio Projects
+#### `day083`: [CLI TicTacToe Game](./Days%20081-085/Day_083/)
+#### `day084`: [Markit - Image Watermarking Software](./Days%20081-085/Day_084/)
+#### `day089`: [Disappearing Text Webapp](./Days%20086-090/Day_089/)
+#### `day092`: [Custom Web Scraper - Taapi.io](./Days%20091-095/Day_092/)
+#### `day093`: [Google Dinosaur Game Automation](./Days%20091-095/Day_093/)
+#### `day094`: [Space Invaders with Pygame](./Days%20091-095/Day_094/)
+#### `day095`: [Custom API Based Website - Portfolio Analytics Dashboard](./Days%20091-095/Day_095/)
+#### `day097`: [Custom Automation Project - Daily Stock Portfolio Report](./Days%20096-100/Day_097/)
+#### `day100`: [Predict Earnings using Multivariate Regression](./Days%20096-100/Day_100/)
 ___
-# 🏁 The Finish Line! 🏁
