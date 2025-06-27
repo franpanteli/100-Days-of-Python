@@ -15,8 +15,8 @@
 ___
 
 ### From **Days001-80** - Guided Lecture Projects
-- #### `Day 002`: [Tip Calculator](./Days%20001-005/Day_002/)
-- #### `Day 005`: [Password Generator](./Days%20001-005/Day_005/)
+- #### `Day 002`- [Tip Calculator](./Days%20001-005/Day_002/)
+- #### `Day 005`- [Password Generator](./Days%20001-005/Day_005/)
 - #### `Day 007`: [Hangman](./Days%20006-010/Day_007/)
 #### `Day 008`: [Caesar Cipher](./Days%20006-010/Day_008/)
 #### `Day 011`: [Blackjack](./Days%20011-015/Day_011/)
