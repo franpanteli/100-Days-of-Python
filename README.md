@@ -62,4 +62,5 @@ ___
 - #### `Day100`- [Predict Earnings using Multivariate Regression](./Days%20096-100/Day_100/)
 ___
 ### To Clone This Repository 
-`git clone https://github.com/franpanteli/100-Days-of-Python.git`
+```
+git clone https://github.com/franpanteli/100-Days-of-Python.git`
