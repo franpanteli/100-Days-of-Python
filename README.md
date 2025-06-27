@@ -7,9 +7,9 @@
 
     I would highly recommend this course to anyone that I know that is considering learning Python, or somebody who is even just considering learning to code in general. The knowledge that this course supplied opened doors for me and _accomplished a life goal of mine that I wasn't sure that I'd ever accomplish_. For a full list of concepts and techniques covered in the course, please see the [course syllabus](./syllabus.pdf), or visit the course on [Udemy](https://www.udemy.com/course/100-Days-of-code/).
 
-🧰 Local setup instructions and the `requirements.txt` file are included in each project, if you'd like to try any for yourself. 
+Local setup instructions and the `requirements.txt` file are included in each project, if you'd like to try any for yourself. 
 
-🚨 While this repository's filesystem contains the project files that I completed for **all** 100 days of the course, below are the links the projects that were the **_most interesting/signifigant_** to me throughout the course:
+While this repository's filesystem contains the project files that I completed for **all** 100 days of the course, below are the links the projects that were the **_most interesting/signifigant_** to me throughout the course:
 
 > All projects require Python `version >= 3.9` and the packages in their corresponding package requirements to run.
 ___
@@ -61,3 +61,5 @@ ___
 - #### `Day 097`- [Custom Automation Project - Daily Stock Portfolio Report](./Days%20096-100/Day_097/)
 - #### `Day100`- [Predict Earnings using Multivariate Regression](./Days%20096-100/Day_100/)
 ___
+### To Clone This Repository 
+`git clone https://github.com/franpanteli/100-Days-of-Python.git`
