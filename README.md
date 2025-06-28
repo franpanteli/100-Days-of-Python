@@ -1,9 +1,10 @@
  # 100 Days of Udemy Python 
-___ 
 ## Abstract 
+___ 
 This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp, [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100+day&src=sac&couponCode=ACCAGE0923). A full list of concepts covered by the bootcamp are contained in [its syllabus](https://github.com/franpanteli/100-Days-of-Python/blob/main/syllabus.pdf). I completed this as part of my independent learning, to invest in my Python skills. Course material was first exported and notes were written. Capstone projects were next produced, by solving problems presented in course material and producing my own solutions. These were pushed to GitHub, and capstone projects linked to. Local setup instructions and a requirements.txt file are included by each project. This details package requirements and assumes that Python version `>=3.9` is used. This was produced over more than 100 days, to sustainably produce module content.
-___
+
 ## From **Days 001-80** - Guided Lecture Projects
+___
 - ### `Day 002`- [Calculating Tips](./Days%20001-005/Day_002/)
 - ### `Day 005`- [Generating Passwords](./Days%20001-005/Day_005/)
 - ### `Day 007`- [Hangman](./Days%20006-010/Day_007/)
@@ -34,8 +35,9 @@ ___
 - ### `Day 063`- [Virtual Bookshelf - CRUD Webapp](./Days%20061-065/Day_063/)
 - ### `Day 064`- [Top 10 Movies - CRUD Webapp](./Days%20061-065/Day_064/)
 - ### `Day 080`- [Housing Price Predictions - Data Science Capstone Project](./Days%20076-080/Day_080/)
-___
+
 ## From **Days 081-100** - Portfolio Projects
+___
 - ### `Day 083`- [CLI TicTacToe Game](./Days%20081-085/Day_083/)
 - ### `Day 084`- [Markit - Image Watermarking Software](./Days%20081-085/Day_084/)
 - ### `Day 089`- [Disappearing Text Webapp](./Days%20086-090/Day_089/)
@@ -45,7 +47,8 @@ ___
 - ### `Day 095`- [Analytics Dashboard - API-Based Website](./Days%20091-095/Day_095/)
 - ### `Day 097`- [Daily Stock Reports - Automation Project](./Days%20096-100/Day_097/)
 - ### `Day100`- [Predicting Earnings using Regression](./Days%20096-100/Day_100/)
-___
+
 ## To Clone This Repository 
+___
 ```
 git clone https://github.com/franpanteli/100-Days-of-Python.git
