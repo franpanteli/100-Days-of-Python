@@ -1,17 +1,6 @@
  # 100 Days of Python on Udemy
 
-Dr. Angela Yu's course, [_100 Days of Code: The Complete Python Pro Bootcamp_](https://www.udemy.com/course/100-Days-of-code/), aims to create fluent and well-rounded Python developers by exposing them to a wide array of Python programming concepts and techniques for 100 Days straight. After completing the course, although I didn't complete it within the 100 days, I can confidently say that this was undoubtedly the best online course I've ever taken. Not only did I learn Python from zero-to-hero, but I was also taught things that most other courses skip over such as, but not limited to:
-* The importance of understanding the underlying theory behind the code we write
-* How to learn effectively and efficiently, and continue to grow your skills
-* How to comply with industry best practices and standards as related to Python development
-
-    I would highly recommend this course to anyone that I know that is considering learning Python, or somebody who is even just considering learning to code in general. The knowledge that this course supplied opened doors for me and _accomplished a life goal of mine that I wasn't sure that I'd ever accomplish_. For a full list of concepts and techniques covered in the course, please see the [course syllabus](./syllabus.pdf), or visit the course on [Udemy](https://www.udemy.com/course/100-Days-of-code/).
-
-Local setup instructions and the `requirements.txt` file are included in each project, if you'd like to try any for yourself. 
-
-While this repository's filesystem contains the project files that I completed for **all** 100 days of the course, below are the links the projects that were the **_most interesting/signifigant_** to me throughout the course:
-
-> All projects require Python `version >= 3.9` and the packages in their corresponding package requirements to run.
+This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp, [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100+day&src=sac&couponCode=ACCAGE0923). A full list of concepts covered by the bootcamp are contained in [its syllabus](https://github.com/franpanteli/100-Days-of-Python/blob/main/syllabus.pdf). I completed this as part of my independent learning, to invest in my Python skills. Course material was first exported and notes were written. Capstone projects were next produced, by solving problems presented in course material and producing my own solutions. These were pushed to GitHub, and capstone projects linked to. Local setup instructions and a requirements.txt file are included by each project. This details package requirements and assumes that Python version `>=3.9` is used. This was produced over more than 100 days, to sustainably produce module content.
 ___
 
 ### From **Days 001-80** - Guided Lecture Projects
