@@ -43,7 +43,7 @@ This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp,
 - ### `Day 094`- [Pygame Space Invaders](./Days%20091-095/Day_094/)
 - ### `Day 095`- [Analytics Dashboard - API-Based Website](./Days%20091-095/Day_095/)
 - ### `Day 097`- [Daily Stock Reports - Automation Project](./Days%20096-100/Day_097/)
-- ### `Day100`- [Predicting Earnings using Regression](./Days%20096-100/Day_100/)
+- ### `Day 100`- [Predicting Earnings using Regression](./Days%20096-100/Day_100/)
 
 ## To Clone This Repository 
 ```
