@@ -2,10 +2,6 @@
 
 _Build a custom website using an API that you find interesting_
 
-# Portfolio Analytics Dashboard
-
-View the official repository here: *https://github.com/hschickdevs/Rebsamen-Portfolio-Analytics*
-
 ## Overview
 
 Using the skills that I've learned in the course, I was able to build a dashboard that tracks the holdings and performance of the student managed investment portfolio at my college.
