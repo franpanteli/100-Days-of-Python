@@ -1,7 +1,7 @@
 ## Day 97 Course Assignment: A Custom Automation Project
 
 _Automate some part of your life_
-
+### Abstract
 I created Python software that sends a report to the specified email regarding the performance of the stocks in the theoretical portfolio(s) at the end of every NYSE trading day.
 
 This report adds the following datapoints for each stock using the [Finnhub API](https://finnhub.io/):
