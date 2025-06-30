@@ -2,16 +2,6 @@
 
 _Automate some part of your life_
 
-# Daily Stock Portfolio Report
-
-## Introduction
-
-I have been trading stocks for a few years now. I often build theoretical portfolios to see how a certain strategy would perform, had I invested. 
-
-It can be quite tedious to manually calculate and monitor the performance of a portfolio, so I decided to automate the process.
-
-## Solution
-
 I created Python software that sends a report to the specified email regarding the performance of the stocks in the theoretical portfolio(s) at the end of every NYSE trading day.
 
 This report adds the following datapoints for each stock using the [Finnhub API](https://finnhub.io/):
