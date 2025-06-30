@@ -4,7 +4,7 @@ _Write Python code to automate playing the Google Dinosaur Game_
 
 # Google Dinosaur Game Bot
 
-## Concepts Practised
+## Concepts Applied  
 
 - Finding and Selecting Particular Pixcels and RGB with PyAutoGUI
 - Use PyWin32 for Fast Keyboard Press Response
