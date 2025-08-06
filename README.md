@@ -36,4 +36,4 @@ This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp,
 
 ## To Clone This Repository 
 ```
-git clone https://github.com/franpanteli/100-Days-of-Python.git
+git clone https://github.com/franpanteli/Udemy-100-Days-of-Python.git
