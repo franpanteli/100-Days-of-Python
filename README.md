@@ -1,8 +1,8 @@
  # 100 Days of Python
-## Repository Overview   
+### Repository Overview   
 This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp, [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100+day&src=sac&couponCode=ACCAGE0923). This was completed on the Udemy platform. A full list of concepts covered by the bootcamp are contained in [its syllabus](https://github.com/franpanteli/100-Days-of-Python/blob/main/syllabus.pdf). I completed this as part of my independent learning, to invest in my Python skills. Course material was first exported and notes were written. Capstone projects were next produced, by solving problems presented in course material and producing my own solutions. These were pushed to GitHub, and capstone projects linked to. Local setup instructions and a requirements.txt file are included by each project. This details package requirements and assumes that Python version `>=3.9` is used. This was produced over more than 100 days, to ensure sustainable problem solving.
 
-## Projects
+### Projects
 - ### `Day 002`- [Calculating Tips](./Days%20001-005/Day_002/)
 - ### `Day 005`- [Generating Passwords](./Days%20001-005/Day_005/)
 - ### `Day 007`- [Hangman](./Days%20006-010/Day_007/)
@@ -34,6 +34,6 @@ This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp,
 - ### `Day 064`- [Top 10 Movies - CRUD Webapp](./Days%20061-065/Day_064/)
 - ### `Day 080`- [Housing Price Predictions - Data Science Capstone Project](./Days%20076-080/Day_080/)
 
-## To Clone This Repository 
+### To Clone This Repository 
 ```
 git clone https://github.com/franpanteli/Udemy-100-Days-of-Python.git
