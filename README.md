@@ -34,17 +34,6 @@ This repository contains my work for Dr Angela Yu's 100 Days of Python bootcamp,
 - ### `Day 064`- [Top 10 Movies - CRUD Webapp](./Days%20061-065/Day_064/)
 - ### `Day 080`- [Housing Price Predictions - Data Science Capstone Project](./Days%20076-080/Day_080/)
 
-## From **Days 081-100** - Portfolio Projects
-- ### `Day 083`- [CLI TicTacToe Game](./Days%20081-085/Day_083/)
-- ### `Day 084`- [Markit - Image Watermarking Software](./Days%20081-085/Day_084/)
-- ### `Day 089`- [Disappearing Text Webapp](./Days%20086-090/Day_089/)
-- ### `Day 092`- [Web Scraping](./Days%20091-095/Day_092/)
-- ### `Day 093`- [Google Dinosaur Automated Game](./Days%20091-095/Day_093/)
-- ### `Day 094`- [Pygame Space Invaders](./Days%20091-095/Day_094/)
-- ### `Day 095`- [Analytics Dashboard - API-Based Website](./Days%20091-095/Day_095/)
-- ### `Day 097`- [Daily Stock Reports - Automation Project](./Days%20096-100/Day_097/)
-- ### `Day 100`- [Predicting Earnings using Regression](./Days%20096-100/Day_100/)
-
 ## To Clone This Repository 
 ```
 git clone https://github.com/franpanteli/100-Days-of-Python.git
