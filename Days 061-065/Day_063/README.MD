@@ -4,6 +4,6 @@
 - I built a website to track a virtual bookshelf
 - I developed a custom SQLite database to store the data contained by this
 
-## Demo:
+## Demonstration 
 
 ![Bookshelf Website](./img/demo.gif)
