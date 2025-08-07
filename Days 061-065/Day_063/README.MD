@@ -1,8 +1,8 @@
-# Day 63 - Bookshelf Website Project:
+# Day 63 - Bookshelf Website Project
 
-- Simple single-user CRUD app.
-- Built a website to track your virtual bookshelf.
-- Developed a custom SQLite database to store the data.
+- This is a Simple single-user CRUD app
+- I built a website to track a virtual bookshelf
+- I developed a custom SQLite database to store the data contained by this
 
 ## Demo:
 
