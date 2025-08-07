@@ -1,13 +1,13 @@
 # Day 64 Project - My Top 10 Movies Website
 
-## Notable Features:
+## Notable Features
 
-- Full CRUD
+- This website has been built using full CRUD  
 - Search for movies using [The Movie Database](https://www.themoviedb.org/documentation/api?language=en-US) API integration
 - Pagination (WIP)
 - Sqlite database accessed using SQLAlchemy
 
-## Demo:
+## Demonstration 
 
 ### Home Page & Delete Movie from Database
 ![index](./img/index.gif)
