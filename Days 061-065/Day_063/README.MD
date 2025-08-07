@@ -1,6 +1,6 @@
 # Day 63 - Bookshelf Website Project
 
-- This is a Simple single-user CRUD app
+- This is a Simple single-user CRUD application 
 - I built a website to track a virtual bookshelf
 - I developed a custom SQLite database to store the data contained by this
 
